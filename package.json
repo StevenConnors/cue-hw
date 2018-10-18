@@ -1,0 +1,24 @@
+{
+  "name": "cue-hw",
+  "version": "0.0.0",
+  "description": "Tessel project",
+  "main": "index.js",
+  "dependencies": {
+    "johnny-five": "^1.0.0",
+    "moment": "^2.22.2",
+    "mongodb-stitch-server-sdk": "^4.0.15-0",
+    "t2-cli": "^0.1.20",
+    "tessel": "^0.3.25",
+    "tessel-io": "^1.2.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": "git://github.com/StevenConnors/cue-iot.git",
+  "keywords": [
+    "Tessel"
+  ],
+  "license": "MIT",
+  "readme": "A bare bones Tessel 2 blinky script."
+}
