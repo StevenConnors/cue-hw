@@ -9,7 +9,7 @@ const client = Stitch.initializeDefaultAppClient('mongodb-cue-rirpg');
 const five = require("johnny-five");
 const Tessel = require("tessel-io");
 
-const STITCH_API_KEY = "YO9sx8uAbTsIK0ddHI14bYnQATa61nlr2DwdHisLmESiP81ld8X1OtzkvMyLs0c3";
+const STITCH_API_KEY = "STITCH_API_KEY";
 const TABLE_ID = "nyc1633_38_0";
 
 const board = new five.Board({
